@@ -1,2 +1,3 @@
 # ignore directories
 non-git/
+node_modules/
