@@ -2,3 +2,5 @@
 non-git/
 node_modules/
 .env
+.vscode
+.git
